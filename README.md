@@ -4,6 +4,14 @@ A comprehensive, responsive Flutter application demonstrating core mobile develo
 
 ---
 
+## 📸 Application Screenshots
+
+| 🏠 HomeScreen (`/`) | 📝 FormScreen (`/form`) | 🖼️ ImageGridScreen (`/images`) | ✨ AnimationScreen (`/animation`) |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/home_screen.png" width="220" alt="HomeScreen" /> | <img src="assets/screenshots/form_screen.png" width="220" alt="FormScreen" /> | <img src="assets/screenshots/image_grid_screen.png" width="220" alt="ImageGridScreen" /> | <img src="assets/screenshots/animation_screen.png" width="220" alt="AnimationScreen" /> |
+
+---
+
 ## 🎯 Objective
 
 The objective of this assignment is to develop a modular Flutter application that demonstrates mastery over the following key Flutter concepts:
